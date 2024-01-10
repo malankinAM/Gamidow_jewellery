@@ -11,4 +11,4 @@
 
 
 ## Click ('')
- <img src="./img/Readme.png" title="css"  width="600" height="500"/>
+ <img src="./img/Readme.png" title="css"  width="400" height="500"/>
